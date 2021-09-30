@@ -1,0 +1,5 @@
+{
+  "MongoUri2" : "mongodb+srv://Niga9L:7QTT4oLMd3JICqZ1@cluster0-tkcz5.mongodb.net/rencredit?retryWrites=true&w=majority",
+  "MongoUri": "mongodb+srv://niga9l:Evilpro777@cluster0-riwkr.mongodb.net/mernApp?retryWrites=true&w=majority",
+  "PORT": "5000"
+}

@@ -1,0 +1,17 @@
+@import "~materialize-css/dist/css/materialize.min.css";
+
+.navbar {
+    padding: 0 2rem;
+}
+
+.mr2 label {
+    margin-right: 2rem;
+}
+.mr2{
+    margin-top: 1rem;
+}
+
+.flexed {
+    display: flex;
+    align-items: center;
+}
